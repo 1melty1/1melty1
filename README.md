@@ -3,10 +3,10 @@
 
 <h4 align="center">A student studying AIST in CUHK.</h4>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 ![](https://komarev.com/ghpvc/?username=1melty1)
 ![](https://komarev.com/ghpvc/?1melty1=&style=for-the-badge)
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## Programming
 
